@@ -1,35 +1,56 @@
 <html>
-    <head></head>
+    <head>
+        <link href="/Kanbas/styles.css" rel="stylesheet"/>
+        <link href="/Kanbas/Navigation/index.css" rel="stylesheet"/>
+        <link rel="stylesheet" href="/libs/bootstrap/bootstrap.css" />
+        <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.css" rel="stylesheet"/>
+    </head>
     <body>
-        <table width="100%">
-            <tbody>
-                <tr>
-                    <td valign="top">
-                        <ul>
-                            <li><a href="/Kanbas/Account/Navigation/index.html">
-                               Account</a></li>
-                            <li>
-                             <a href="/Kanbas/Dashboard/screen.html">Dashboard</a>
+        <div class="d-flex">
+            <div>
+                        <ul class="wd-kanbas-navigation">
+                            <li><a href="http://northeastern.edu">
+                                <img src="/images/NEUlogo.png" class="img-fluid"/>
+                            </a></li>
+                            <li class="wd-active">
+                                <a href="/Kanbas/Account/Navigation/index.html" style="color:grey">
+                                    <i style="color:grey" class="fa-solid fa-user"></i></span>Account</a>
                             </li>
                             <li>
-                             <a href="/Kanbas/Courses/Home/screen.html">Courses</a>
+                                <a href="/Kanbas/Dashboard/screen.html">
+                                    <i class="fa fa-tachometer"></i>Dashboard</a>
                             </li>
                             <li>
-                             <a href="/Kanbas/Calendar/index.html">Calendar</a>
+                                <a href="/Kanbas/Courses/Home/screen.html">
+                                    <i class="fa-solid fa-book"></i>Courses</a>
                             </li>
-                            <li><a href="/Kanbas/Inbox/index.html">Inbox</a>
+                            <li>
+                                <a href="/Kanbas/Calendar/index.html">
+                                    <i class="fa-regular fa-calendar"></i>Calendar</a>
                             </li>
-                            <li><a href="#">History</a>
+                            <li>
+                                <a href="/Kanbas/Inbox/index.html">
+                                    <i class="fa-solid fa-inbox"></i></br>Inbox</a>
                             </li>
-                            <li><a href="#">Studio</a>
+                            <li>
+                                <a href="#">
+                                    <i class="fa-solid fa-clock"></i>History</a>
                             </li>
-                            <li><a href="#">Commons</a>
+                            <li>
+                                <a href="#">
+                                    <i class="fa-solid fa-video"></i>Studio</a>
                             </li>
-                            <li><a href="#">Help</a>
+                            <li>
+                                <a href="#">
+                                    <i class="fa-solid fa-arrow-right"></i>Commons</a>
                             </li>
-                        </ul>
-                    </td>
-                    <td valign="top">
+                            <li>
+                                <a href="#">
+                                    <i class="fa-solid fa-question"></i></br>Help</a>
+                            </li>
+                        </ul> 
+                    </div>
+                    <div>
                         <ul>
                             <li><a href="#">
                                Notifications</a>
@@ -54,8 +75,8 @@
                             <li><a href="#">Global Announcements</a>
                             </li>
                         </ul>
-                    </td>
-                    <td>
+                    </div>
+                    <div class="p-4">
                         <table>
                             <tbody>
                                 <tr>
@@ -119,9 +140,7 @@
                                 </tr>
                             </tbody>
                         </table>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
+                    </div>
+                </div>
     </body>
 </html>

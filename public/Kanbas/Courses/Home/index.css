@@ -1,0 +1,10 @@
+
+.wd-modals a {
+    color: red;
+    text-decoration: none;
+  }
+
+.wd-modals a i {
+    color: red;
+    margin-bottom: 5px;
+  }
