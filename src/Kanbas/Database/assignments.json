@@ -1,0 +1,11 @@
+[
+    { "_id": "A101", "title": "Hello World! Interface", "course": "CS4550" },
+    { "_id": "A102", "title": "Creating an Interrface with HTML", "course": "CS4550" },
+    { "_id": "A103", "title": "Styling with CSS", "course": "CS4550" },
+    { "_id": "A201", "title": "Baking Tools Quiz", "course": "CRFT2210" },
+    { "_id": "A202", "title": "Make Your Own Muffin or Bread Recipe", "course": "CRFT2210" },
+    { "_id": "A203", "title": "Decorate a Themed Cake", "course": "CRFT2210" },
+    { "_id": "A301", "title": "Attention Quiz", "course": "PSYC3466" },
+    { "_id": "A302", "title": "Memory Paper: Real World Analysis", "course": "PSYC3466" },
+    { "_id": "A303", "title": "Language Quiz", "course": "PSYC3466" }
+  ]
