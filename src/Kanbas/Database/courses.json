@@ -1,0 +1,6 @@
+[ { "_id": "CS4550", "name": "Web Development", "number": "CS4550", "startDate": "2023-01-10",
+    "endDate": "2023-05-15", "image": "light-green-solid.jpg"  },
+  { "_id": "CRFT2210", "name": "Intro to Baking", "number": "CRFT2210", "startDate": "2023-01-10",
+    "endDate": "2023-05-15", "image": "plum-solid.jpg"  },
+  { "_id": "PSYC3466", "name": "Cognition", "number": "PSYC3466", "startDate": "2023-01-10",
+    "endDate": "2023-05-15", "image": "light-green.jpg"  } ]

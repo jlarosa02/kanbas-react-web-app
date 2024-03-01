@@ -1,0 +1,224 @@
+[
+  {
+    "_id": "M101",
+    "name": "Week 0 - INTRO",
+    "description": "Introduction to the semester ahead",
+    "course": "CS4550",
+    "lessons": [
+      {
+        "_id": "L101",
+        "name": "What is Web Development",
+        "description": "A brief history of Web Development and where it is today",
+        "module": "M101"
+      },
+      {
+        "_id": "L102",
+        "name": "Creating a Development Environment",
+        "description": "Tutorial on how to create a dev environment for class assignments",
+        "module": "M101"
+      },
+      {
+        "_id": "L103",
+        "name": "Creating a Web Application: Getting Started with Assignment 1",
+        "description": "A brief introduction to the first homework assignment",
+        "module": "M101"
+      }
+    ]
+  },
+  {
+    "_id": "M102",
+    "name": "Week 1 — HTML",
+    "description": "Lessons on the history and functionality of HTML",
+    "course": "CS4550",
+    "lessons": [
+      {
+        "_id": "L201",
+        "name": "Creating User Interfaces with HTML",
+        "description": "Overview of basic HTML principles",
+        "module": "M102"
+      },
+      {
+        "_id": "L202",
+        "name": "Continuing Assignment 1",
+        "description": "More instruction on how to comeplete the first assignment",
+        "module": "M102"
+      },
+      {
+        "_id": "L203",
+        "name": "Deploying to Netlify",
+        "description": "Tutorial on how to deploy a web application.",
+        "module": "M102"
+      }
+    ]
+  },
+  {
+    "_id": "M103",
+    "name": "WEEK 2 - CSS",
+    "description": "A brief overview of Cascading Style Sheets",
+    "course": "CS4550",
+    "lessons": [
+      {
+        "_id": "L301",
+        "name": "Selectors by Tag ID, Classes, and Document Structure",
+        "description": "Tutorial on the use of CSS selectors",
+        "module": "M103"
+      },
+      {
+        "_id": "L302",
+        "name": "Styling Color, Dimensions, and Positions",
+        "description": "Further stylistic capabilitieis of CSS",
+        "module": "M103"
+      },
+      {
+        "_id": "L303",
+        "name": "The Box Model - Styling Margins, Borders, and Paddings",
+        "description": "Describes the uses and benefits of box model in styling",
+        "module": "M103"
+      }
+    ]
+  },
+  {
+    "_id": "M201",
+    "name": "Setting Up Your Kitchen For Success",
+    "description": "Describes the ideal set up for baking",
+    "course": "CRFT2210",
+    "lessons": [
+      {
+        "_id": "L101",
+        "name": "Kitchen Tools: What You Need",
+        "description": "Discusses the materials needed",
+        "module": "M201"
+      },
+      {
+        "_id": "L102",
+        "name": "Keeping Your Space Clean",
+        "description": "Provides clean tips for before and after baking",
+        "module": "M201"
+      }
+    ]
+  },
+  {
+    "_id": "M202",
+    "name": "Muffins and Breads",
+    "description": "Intro to simple muffin and bread recipes",
+    "course": "CRFT2210",
+    "lessons": [
+      {
+        "_id": "L201",
+        "name": "Banana Bread",
+        "description": "Prepping and making banana bread",
+        "module": "M202"
+      },
+      {
+        "_id": "L202",
+        "name": "Chocolate Chip Muffins",
+        "description": "Making chocolate chip muffins",
+        "module": "M202"
+      },
+      {
+        "_id": "L203",
+        "name": "Cinnamon Banana Muffins",
+        "description": "Combines both prior muffin and bread recipes",
+        "module": "M202"
+      }
+    ]
+  },
+  {
+    "_id": "M203",
+    "name": "Decoration: Cakes, Cupcakes, and Cookies",
+    "description": "Developing decoration skills than can be used across recipes",
+    "course": "CRFT2210",
+    "lessons": [
+      {
+        "_id": "L301",
+        "name": "Lettering with Icing",
+        "description": "Tutorials on how to write lettering decorations",
+        "module": "M203"
+      },
+      {
+        "_id": "L302",
+        "name": "Picking the Right Nozzle: Swirls, Zig-Zags, and Flowers",
+        "description": "Sumamrizies how different icing tips can be used to create different patterns",
+        "module": "M203"
+      },
+      {
+        "_id": "L303",
+        "name": "Painting a Picture on Your Dessert",
+        "description": "Provides more advanced tips on decoration",
+        "module": "M203"
+      }
+    ]
+  },
+  {
+    "_id": "M301",
+    "name": "Attention",
+    "description": "Describes attentional processes in human cognition",
+    "course": "PSYC3466",
+    "lessons": [
+      {
+        "_id": "L101",
+        "name": "Attentional Models",
+        "description": "Describes several models use to understand the process of attention",
+        "module": "M301"
+      },
+      {
+        "_id": "L102",
+        "name": "Inattentional Blindess and Other Effects",
+        "description": "Explains common effects related to attention, such as inattentional blindness",
+        "module": "M301"
+      },
+      {
+        "_id": "L103",
+        "name": "How to Maximize Attention",
+        "description": "Relates earlier lessons to everyday life",
+        "module": "M301"
+      }
+    ]
+  },
+  {
+    "_id": "M302",
+    "name": "Memory",
+    "description": "Understanding cognitive memory processes",
+    "course": "PSYC3466",
+    "lessons": [
+      {
+        "_id": "L201",
+        "name": "Short-term and Working Memory",
+        "description": "Describes capabilities of short term and working memory",
+        "module": "M302"
+      },
+      {
+        "_id": "L202",
+        "name": "Long-term Memory",
+        "description": "Explains LTM and how it is stored",
+        "module": "M302"
+      },
+      {
+        "_id": "L203",
+        "name": "False Memory and Other Deficiencies of Memory",
+        "description": "Explains common everyday effects related to memory, like false memories",
+        "module": "M302"
+      }
+    ]
+  },
+  {
+    "_id": "M303",
+    "name": "Language",
+    "description": "Describes the relationship between cognition and language processes",
+    "course": "PSYC3466",
+    "lessons": [
+      {
+        "_id": "L301",
+        "name": "Language and its Levels",
+        "description": "Provides a brief overview of what is qualified is language",
+        "module": "M303"
+      },
+      {
+        "_id": "L302",
+        "name": "Perceving Language",
+        "description": "Explains the cognitive differences in how language perception varies",
+        "module": "M303"
+      }
+    ]
+  }
+]
